@@ -3,11 +3,11 @@ my version sorting algorithms visualization program inspired by a ton of youtube
 
 
 
-usage
-call syntax:
+
+# call syntax:
 	sort [sorting method] [number of elements] [time between frames in ms] [shape of the input]
 
-sorting metods:
+# sorting metods:
 	O(n^2) < C:
 		bogo
 		stooge
@@ -38,7 +38,7 @@ sorting metods:
 		radixLSD{base(default 256)}
 
 
-input data shapes:
+# input data shapes:
 	U - uniformly distributed numbers
 	P - perlin noise
 		P [steepness]
