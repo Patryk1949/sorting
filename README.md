@@ -3,7 +3,7 @@ my version sorting algorithms visualization program inspired by a ton of youtube
 
 
 
-# usage
+usage
 call syntax:
 	sort [sorting method] [number of elements] [time between frames in ms] [shape of the input]
 
